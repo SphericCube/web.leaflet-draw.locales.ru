@@ -5,7 +5,7 @@ russian locale for [leaflet-draw.locales](https://github.com/SphericCube/web.lea
 ## Installation
 
 ```bash
-npm install --save web.leaflet-draw.locales.ru
+npm install --save sphericcube/web.leaflet-draw.locales.ru
 ```
 
 ## Usage
