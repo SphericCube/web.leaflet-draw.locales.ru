@@ -28,7 +28,7 @@
                     }
                 },
                 polyline: {
-                    error: "<strong>Error:</strong> shape edges cannot cross!",
+                    error: "<strong>Ошибка:</strong> грани фигуры не должны пересекаться!",
                     tooltip: {
                         cont: "Нажмите на карту чтобы продожить рисовать линию.",
                         end: "Нажмите на последнюю точку чтобы завершить линию.",
