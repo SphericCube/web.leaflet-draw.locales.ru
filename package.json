@@ -1,0 +1,27 @@
+{
+  "name": "web.leaflet-draw.locales.ru",
+  "version": "0.1.0",
+  "main": "dist/web.leaflet-draw.locales.ru.min.js",
+  "module": "src/web.leaflet-draw.locales.ru.js",
+  "description": "Locale for leaflet-draw (RU)",
+  "license": "MIT",
+  "author": {
+    "email": "e.dovgoborets@teamsoft.com.ua",
+    "name": "SphericCube"
+  },
+  "dependencies": {
+    "web.leaflet-draw.locales": "github:SphericCube/web.leaflet-draw.locales.git",
+    "leaflet": "^1.4.0",
+    "leaflet-draw": "^1.0.4"
+  },
+  "devDependencies": {
+    "gulp-cli": "^2.1.0",
+    "gulp": "^4.0.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-concat": "^2.6.1",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "gulp-babel": "^6.1.3",
+    "gulp-rename": "^1.4.0"
+  }
+}
